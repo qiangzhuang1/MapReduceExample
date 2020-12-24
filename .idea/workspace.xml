@@ -1,65 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="885a986f-e1a1-4149-aa24-be964e44244f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MapReduceExample.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/comparable/ComparableBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/comparable/ComparableDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/comparable/ComparableMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/comparable/ComparableReduce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/SpeakBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/SpeakDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/SpeakMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/SpeakReduce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/group/CustomGroupingComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/group/CustomPartitioner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/group/GroupingOrderDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/group/GroupingOrderMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/group/GroupingOrderReduce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/group/OrderBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/partition/CustomPartitioner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/partition/PartitionBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/partition/PartitionDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/partition/PartitionMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/partition/PartitionReduce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wordcount/WordCountDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wordcount/WordCountMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wordcount/WordCountReduce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/MapReduceExample-1.0-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/MapReduceExample-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/MapReduceExample.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/comparable/ComparableBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/comparable/ComparableDriver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/comparable/ComparableMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/comparable/ComparableReduce.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/SpeakBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/SpeakDriver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/SpeakMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/SpeakReduce.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/group/CustomGroupingComparator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/group/CustomPartitioner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/group/GroupingOrderDriver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/group/GroupingOrderMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/group/GroupingOrderReduce.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/group/OrderBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/partition/CustomPartitioner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/partition/PartitionBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/partition/PartitionDriver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/partition/PartitionMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/partition/PartitionReduce.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wordcount/WordCountDriver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wordcount/WordCountMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wordcount/WordCountReduce.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-    </list>
+    <list default="true" id="885a986f-e1a1-4149-aa24-be964e44244f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -228,7 +170,7 @@
       <workItem from="1607939015372" duration="2700000" />
       <workItem from="1608096362903" duration="3073000" />
       <workItem from="1608119004547" duration="1517000" />
-      <workItem from="1608822222344" duration="329000" />
+      <workItem from="1608822222344" duration="572000" />
     </task>
     <servers />
   </component>
